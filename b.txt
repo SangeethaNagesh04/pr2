@@ -2,3 +2,5 @@ this is b file
 in br1
 
 i am modifiying only in br1
+i added one more line in branch2
+this should not reglect in branch1
